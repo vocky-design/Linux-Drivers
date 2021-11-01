@@ -1,0 +1,1 @@
+cmd_/home/vocky/linux/Linux_Drivers/8_spinlock/spinlock.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vocky/linux/Linux_Drivers/8_spinlock/spinlock.ko /home/vocky/linux/Linux_Drivers/8_spinlock/spinlock.o /home/vocky/linux/Linux_Drivers/8_spinlock/spinlock.mod.o

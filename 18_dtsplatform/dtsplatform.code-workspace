@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"ide.h": "c",
+			"init.h": "c",
+			"platform_device.h": "c",
+			"device.h": "c"
+		}
+	}
+}

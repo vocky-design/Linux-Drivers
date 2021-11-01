@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"semaphore.h": "c",
+			"spinlock.h": "c"
+		}
+	}
+}

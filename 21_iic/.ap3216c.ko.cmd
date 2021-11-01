@@ -1,0 +1,1 @@
+cmd_/home/vocky/linux/Linux_Drivers/21_iic/ap3216c.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vocky/linux/Linux_Drivers/21_iic/ap3216c.ko /home/vocky/linux/Linux_Drivers/21_iic/ap3216c.o /home/vocky/linux/Linux_Drivers/21_iic/ap3216c.mod.o

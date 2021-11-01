@@ -1,0 +1,1 @@
+cmd_/home/vocky/linux/Linux_Drivers/1_chrdevbase/chrdevbase.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vocky/linux/Linux_Drivers/1_chrdevbase/chrdevbase.ko /home/vocky/linux/Linux_Drivers/1_chrdevbase/chrdevbase.o /home/vocky/linux/Linux_Drivers/1_chrdevbase/chrdevbase.mod.o

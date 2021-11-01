@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"types.h": "c",
+			"posix_types.h": "c",
+			"kernel.h": "c",
+			"sysinfo.h": "c"
+		}
+	}
+}

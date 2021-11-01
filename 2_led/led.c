@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-10-01 18:57:14
- * @LastEditTime: 2021-10-01 19:23:28
+ * @LastEditTime: 2021-11-01 16:43:28
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /2_led/led.c
@@ -31,8 +31,7 @@ static void __iomem *SW_MUX_GPIO1_IO03;
 static void __iomem *SW_PAD_GPIO1_IO03;
 static void __iomem *GPIO1_DR;
 static void __iomem *GPIO1_GDIR;
-123
-456
+
 /**
  * @description: 驱动入口函数
  * @param {*}

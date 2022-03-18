@@ -1,1 +1,0 @@
-cmd_/home/vocky/linux/Linux_Drivers/13_irq/13_irq.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vocky/linux/Linux_Drivers/13_irq/13_irq.ko /home/vocky/linux/Linux_Drivers/13_irq/13_irq.o /home/vocky/linux/Linux_Drivers/13_irq/13_irq.mod.o

@@ -1,1 +1,0 @@
-cmd_/home/vocky/linux/Linux_Drivers/7_atomic/atomic.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vocky/linux/Linux_Drivers/7_atomic/atomic.ko /home/vocky/linux/Linux_Drivers/7_atomic/atomic.o /home/vocky/linux/Linux_Drivers/7_atomic/atomic.mod.o

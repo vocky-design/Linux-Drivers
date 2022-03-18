@@ -5,12 +5,7 @@
 		{
 			"path": "."
 		},
-		{
-			"path": "../linux-imx-4.1.15-2.1.0-gad512fa-v1.7"
-		},
-		{
-			"path": "../BSP"
-		},
+
 	],
 	"settings": {
 		"search.exclude": {

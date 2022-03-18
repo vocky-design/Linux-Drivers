@@ -1,0 +1,5 @@
+.vscode/**
+*.ko
+*.symvers
+*.order
+

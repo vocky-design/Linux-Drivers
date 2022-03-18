@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-10-17 11:53:49
- * @LastEditTime: 2021-10-17 12:44:23
+ * @LastEditTime: 2021-11-10 20:21:45
  * @LastEditors: Please set LastEditors
  * @Description: 设备树下的 platform 驱动
  * @FilePath: /18_dtsplatform/ leddriver.c
@@ -26,7 +26,7 @@
 
 #define LEDMAJOR    200
 #define LEDCNT      1
-#define LEDNAME     "imx6ul-led"    //TODO
+#define LEDNAME     "imx6ul-led"    
 
 /* led的设备结构体 */
 struct led_dev {

@@ -159,11 +159,9 @@ static int __init gpioled_init(void)
     }
     printk("gpioled major=%d, minor=%d\n", gpioled.major, gpioled.minor);
 
-    /* 2、初始化cdev */
-    gpioled.cdev.owner = THIS_MODULE;
+    /* 2、初始化并添加cdev到内核 */
     cdev_init(&gpioled.cdev, &gpioled_fops);
-
-    /* 3、添加一个cdev */
+    gpioled.cdev.owner = THIS_MODULE;
     cdev_add(&gpioled.cdev, gpioled.devid, GPIOLED_CNT);
 
     /* 4、创建类 */

@@ -1,1 +1,0 @@
-cmd_/home/vocky/linux/Linux_Drivers/9_semaphore/9_semaphore.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/vocky/linux/Linux_Drivers/9_semaphore/9_semaphore.ko /home/vocky/linux/Linux_Drivers/9_semaphore/9_semaphore.o /home/vocky/linux/Linux_Drivers/9_semaphore/9_semaphore.mod.o
